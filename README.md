@@ -2,7 +2,14 @@ Project Name: Wash Trading Detection and Anomaly Modeling
 
 See it in action: [https://wash-trading-detection.streamlit.app/](https://wash-trading-detection.streamlit.app/)
 
+<<<<<<< HEAD
 C:\Users\WELCOME\Desktop\Wash-Trading-Case-Study-for-ERC20-Token-main\Wash-trading-detection\streamlit-app-2025-03-10-11-03-88.webm
+=======
+[streamlit-app-2025-03-10-11-03-88.webm](https://github.com/user-attachments/assets/3fbafc3b-b5ee-457d-b38c-b4e8a324c5cf)
+
+The project contributers
+2025
+>>>>>>> 4cf50e089f4f25d4d075494ef02a49bc7cec1201
 
 
 
