@@ -2,16 +2,17 @@ Project Name: Wash Trading Detection and Anomaly Modeling
 
 See it in action: [https://wash-trading-detection.streamlit.app/](https://wash-trading-detection.streamlit.app/)
 
-The project contributers
-2025
+C:\Users\WELCOME\Desktop\Wash-Trading-Case-Study-for-ERC20-Token-main\Wash-trading-detection\streamlit-app-2025-03-10-11-03-88.webm
 
-Description
+
+
+Description:
 This project aims to detect wash trading activities and other anomalies in cryptocurrency transaction data. It employs various machine learning models such as Isolation Forest, LOF, ARIMA, LSTM, and SVM for anomaly detection, along with preprocessing techniques to handle and normalize data from ERC20 and NEAR token transactions.
 
 The project contains multiple trained models and a Jupyter notebook for analyzing wash trading patterns. The dataset includes transaction data that is preprocessed and normalized to detect fraudulent activities effectively.
 
-Features
-Anomaly Detection Models: Multiple models trained for detecting anomalies in transaction data:
+Features:
+Anomaly Detection Models- Multiple models trained for detecting anomalies in transaction data:
 
 LOF Model: Local Outlier Factor for detecting anomalies.
 Isolation Forest: Isolation-based anomaly detection.
@@ -26,10 +27,10 @@ Installation
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
+https://github.com/Sai1721/Wash-trading-detection.git
 
 2. Navigate into the project directory:
-cd Wash-Trading-Case-Study-for-ERC20-Token
-
+cd Wash-trading-detection
 3. Create a virtual environment (optional but recommended):
 python -m venv venv
 
